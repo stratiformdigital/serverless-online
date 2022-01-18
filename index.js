@@ -16,6 +16,7 @@ class ServerlessPlugin {
                   "Specify the function you want to develop with serverless-online ",
                 required: true,
                 shortcut: "f",
+                type: "string"
               },
             },
           },
