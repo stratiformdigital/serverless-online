@@ -1,7 +1,25 @@
-
-# Serverless Online
-
-This plugin is meant to facilitate faster lambda development against AWS.
+<h1 align="center" style="border-bottom: none;"> serverless-online</h1>
+<h3 align="center">Faster lambda development in AWS through hot deploys and streaming logs.</h3>
+<p align="center">
+  <a href="https://github.com/mdial89f/serverless-online/releases/latest">
+    <img alt="latest release" src="https://img.shields.io/github/release/mdial89f/serverless-online.svg">
+  </a>
+  <a href="https://www.npmjs.com/package/serverless-online">
+    <img alt="npm latest version" src="https://img.shields.io/npm/v/serverless-online/latest.svg">
+  </a>
+  <a href="https://codeclimate.com/github/mdial89f/serverless-online/maintainability">
+    <img alt="Maintainability" src="https://api.codeclimate.com/v1/badges/20f59ef91bd30565c424/maintainability">
+  </a>
+  <a href="https://github.com/semantic-release/semantic-release">
+    <img alt="semantic-release: angular" src="https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release">
+  </a>
+  <a href="https://dependabot.com/">
+    <img alt="Dependabot" src="https://badgen.net/badge/Dependabot/enabled/green?icon=dependabot">
+  </a>
+  <a href="https://github.com/prettier/prettier">
+    <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square">
+  </a>
+</p>
 
 ## Usage
 
@@ -13,18 +31,18 @@ plugins:
 
 ...
 
-
 sls online --function myFunctionName --stage myStage
-
 ```
 
 ## Background
 
 _What?_
-The goal of this plugin is to improve the cloud development workflow for lambda functions by making it easier to deploy deploy changes rapidly and see realtime logs.
+
+This [Serverless](https://www.serverless.com/) plugin's goal is to improve the cloud development workflow for lambda functions by making it easier to deploy changes rapidly and see realtime logs.
 
 _Why?_
-Developing lambda functions against Amazon is relatively slow. While local development workflows and tools help greatly, using them is not always a practical option. There are parity issues at time between what we mock locally and how amazon operates. The 'send email' functionality comes to mind; it's a relatively simple piece of functionality but won't work locally out of the box... an 'if(running locally) do this else() do that' needs to be added to it. Cognito logic in support of local is also worth mentioning.
+
+Developing lambda functions against Amazon is relatively slow. While local development workflows and tools help greatly, using them is not always a practical option. There are parity issues at times between what we mock locally and how amazon operates. The 'send email' functionality comes to mind; it's a relatively simple piece of functionality but won't work locally out of the box... an 'if(running locally) do this else() do that' needs to be added to it. Cognito logic in support of local is also worth mentioning.
 The assumptions this plugin makes are as follows: We develop locally because it's faster than developing in Amazon. But by developing in Amazon, we have full parity between development and production. If we can improve the cloud development experience by making it faster with better feedback, we can have a simpler and better product.
 
 _How?_
@@ -45,7 +63,14 @@ _How?_
 
 ## License
 
-CC0 1.0 Universal
+[![License](https://img.shields.io/badge/License-CC0--1.0--Universal-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
-This project stems from [CMSgov/serverless-online](https://github.com/cmsgov/serverless-online).  
-This project is maintained and developed independently from [CMSgov/serverless-online](https://github.com/cmsgov/serverless-online), and is published with a CC0 1.0 Universal license.
+See [LICENSE](LICENSE.md) for full details.
+
+## Contributors
+
+| [![Mike Dial][dial_avatar]][dial_homepage]<br/>[Mike Dial][dial_homepage] |
+| ------------------------------------------------------------------------- |
+
+[dial_homepage]: https://github.com/mdial89f
+[dial_avatar]: https://avatars.githubusercontent.com/mdial89f?size=150
