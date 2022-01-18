@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/mdial89f/serverless-online/compare/v1.1.0...v1.1.1) (2022-01-18)
+
+
+### Bug Fixes
+
+* **options:** Add option type to remediate serverless warning ([5bedaaf](https://github.com/mdial89f/serverless-online/commit/5bedaaf4624ca92102019efaecd384603e050379))
+
 # [1.1.0](https://github.com/mdial89f/serverless-online/compare/v1.0.0...v1.1.0) (2022-01-18)
 
 
