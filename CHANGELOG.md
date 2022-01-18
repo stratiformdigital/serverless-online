@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/mdial89f/serverless-online/compare/v1.1.1...v1.1.2) (2022-01-18)
+
+
+### Bug Fixes
+
+* **logs:** Handle the 'no log streams for function' error gracefully ([4e935e0](https://github.com/mdial89f/serverless-online/commit/4e935e005835d3e1429f37ec2dc47d31300cbd7b))
+
 ## [1.1.1](https://github.com/mdial89f/serverless-online/compare/v1.1.0...v1.1.1) (2022-01-18)
 
 
