@@ -119,7 +119,19 @@ class ServerlessPlugin {
   async streamLogs() {
     this.options.tail = true;
     this.options.interval = 100;
-    await this.serverless.pluginManager.spawn("logs");
+    try {
+      await this.serverless.pluginManager.spawn("logs");
+    } catch (error) {
+      if (error.message.includes("No existing streams for the function")) {
+        this.log(
+          `No existing log streams for ${this.options.function}, likely because it has never been invoked.  Retrying log streaming in 5s...`
+        );
+        await new Promise((resolve) => setTimeout(resolve, 5000));
+        this.streamLogs();
+      } else {
+        throw error;
+      }
+    }
   }
 }
 
