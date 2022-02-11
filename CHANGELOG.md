@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/mdial89f/serverless-online/compare/v1.1.2...v2.0.0) (2022-02-11)
+
+
+### Features
+
+* **license:**  lic-update ([#5](https://github.com/mdial89f/serverless-online/issues/5)) ([bf7abdb](https://github.com/mdial89f/serverless-online/commit/bf7abdb7c30023b76f29868b2bc1b9e09f8ae2b3))
+
+
+### BREAKING CHANGES
+
+* **license:** updating license
+
 ## [1.1.2](https://github.com/mdial89f/serverless-online/compare/v1.1.1...v1.1.2) (2022-01-18)
 
 
