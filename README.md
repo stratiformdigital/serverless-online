@@ -63,9 +63,9 @@ _How?_
 
 ## License
 
-[![License](https://img.shields.io/badge/License-CC0--1.0--Universal-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-See [LICENSE](LICENSE.md) for full details.
+See [LICENSE](LICENSE) for full details.
 
 ## Contributors
 
