@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/mdial89f/serverless-online/compare/v2.0.0...v2.1.0) (2022-04-20)
+
+
+### Features
+
+* **publish fix:**  Update to fix publishing behavior ([f23c756](https://github.com/mdial89f/serverless-online/commit/f23c756e6cecc47bd7f35504233bdffdcf69a358))
+
 # [2.0.0](https://github.com/mdial89f/serverless-online/compare/v1.1.2...v2.0.0) (2022-02-11)
 
 
