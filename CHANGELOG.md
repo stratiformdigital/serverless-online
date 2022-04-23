@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/mdial89f/serverless-online/compare/v2.2.1...v2.2.2) (2022-04-23)
+
+
+### Bug Fixes
+
+* **metadata:** fix metadata ([edf29b0](https://github.com/mdial89f/serverless-online/commit/edf29b0d7f923b3bc3829113eed1e358c9adac45))
+
 ## [2.2.1](https://github.com/mdial89f/serverless-online/compare/v2.2.0...v2.2.1) (2022-04-23)
 
 

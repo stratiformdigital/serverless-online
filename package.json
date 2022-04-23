@@ -1,6 +1,6 @@
 {
   "name": "@mdial89f/serverless-online",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Faster lambda development in AWS through hot deploys and streaming logs.",
   "main": "index.js",
   "scripts": {
