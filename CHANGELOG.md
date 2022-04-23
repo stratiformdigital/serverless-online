@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/mdial89f/serverless-online/compare/v2.2.0...v2.2.1) (2022-04-23)
+
+
+### Bug Fixes
+
+* **lock:** regen lock ([dff1924](https://github.com/mdial89f/serverless-online/commit/dff1924d6f47c918a18906b836a4f082351214c2))
+
 # [2.2.0](https://github.com/mdial89f/serverless-online/compare/v2.1.0...v2.2.0) (2022-04-23)
 
 
