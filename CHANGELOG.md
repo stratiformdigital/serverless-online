@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/mdial89f/serverless-online/compare/v2.1.0...v2.2.0) (2022-04-23)
+
+
+### Features
+
+* **scope:** publish as scoped package ([9db3dc6](https://github.com/mdial89f/serverless-online/commit/9db3dc615fc586c2d38467aeda48e45ccfe74f23))
+
 # [2.1.0](https://github.com/mdial89f/serverless-online/compare/v2.0.0...v2.1.0) (2022-04-20)
 
 
