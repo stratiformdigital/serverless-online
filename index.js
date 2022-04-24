@@ -1,4 +1,12 @@
 var chokidar = require("chokidar");
+const commandOptions = {
+  function: {
+    usage: "Specify the function you want to develop with serverless-online ",
+    required: true,
+    shortcut: "f",
+    type: "string",
+  },
+};
 
 class ServerlessPlugin {
   constructor(serverless, cliOptions) {
@@ -10,18 +18,11 @@ class ServerlessPlugin {
         commands: {
           start: {
             lifecycleEvents: ["init", "ready", "end"],
-            options: {
-              function: {
-                usage:
-                  "Specify the function you want to develop with serverless-online ",
-                required: true,
-                shortcut: "f",
-                type: "string",
-              },
-            },
+            options: commandOptions,
           },
         },
         lifecycleEvents: ["start"],
+        options: commandOptions,
       },
     };
 
