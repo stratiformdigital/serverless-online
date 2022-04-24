@@ -1,3 +1,10 @@
+## [2.2.3](https://github.com/mdial89f/serverless-online/compare/v2.2.2...v2.2.3) (2022-04-24)
+
+
+### Bug Fixes
+
+* **v3 options:**  Add options to base command to fix as of v3 ([#7](https://github.com/mdial89f/serverless-online/issues/7)) ([131a38a](https://github.com/mdial89f/serverless-online/commit/131a38a1116a5ac53419481c4dd0bb0089a754e1))
+
 ## [2.2.2](https://github.com/mdial89f/serverless-online/compare/v2.2.1...v2.2.2) (2022-04-23)
 
 
