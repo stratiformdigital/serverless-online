@@ -1,13 +1,13 @@
 <h1 align="center" style="border-bottom: none;"> serverless-online</h1>
 <h3 align="center">Faster lambda development in AWS through hot deploys and streaming logs.</h3>
 <p align="center">
-  <a href="https://github.com/mdial89f/serverless-online/releases/latest">
-    <img alt="latest release" src="https://img.shields.io/github/release/mdial89f/serverless-online.svg">
+  <a href="https://github.com/theclouddeck/serverless-online/releases/latest">
+    <img alt="latest release" src="https://img.shields.io/github/release/theclouddeck/serverless-online.svg">
   </a>
   <a href="https://www.npmjs.com/package/serverless-online">
     <img alt="npm latest version" src="https://img.shields.io/npm/v/serverless-online/latest.svg">
   </a>
-  <a href="https://codeclimate.com/github/mdial89f/serverless-online/maintainability">
+  <a href="https://codeclimate.com/github/theclouddeck/serverless-online/maintainability">
     <img alt="Maintainability" src="https://api.codeclimate.com/v1/badges/20f59ef91bd30565c424/maintainability">
   </a>
   <a href="https://github.com/semantic-release/semantic-release">
