@@ -1,6 +1,6 @@
 {
   "name": "@theclouddeck/serverless-online",
-  "version": "2.2.3",
+  "version": "2.3.0",
   "description": "Faster lambda development in AWS through hot deploys and streaming logs.",
   "main": "index.js",
   "scripts": {

@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/theclouddeck/serverless-online/compare/v2.2.3...v2.3.0) (2022-06-08)
+
+
+### Features
+
+* **move org:** move to theclouddeck ([c547926](https://github.com/theclouddeck/serverless-online/commit/c5479263dd6716a723f38a0a56f6c1605569d796))
+
 ## [2.2.3](https://github.com/mdial89f/serverless-online/compare/v2.2.2...v2.2.3) (2022-04-24)
 
 
