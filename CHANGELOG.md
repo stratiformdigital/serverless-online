@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/theclouddeck/serverless-online/compare/v2.3.0...v3.0.0) (2022-06-14)
+
+
+### Features
+
+* **sls v3:**  Update peer dependency specifying v3 ([5b1c1f8](https://github.com/theclouddeck/serverless-online/commit/5b1c1f84bb841e0d936efb380a0cf2430a42f79e))
+
+
+### BREAKING CHANGES
+
+* **sls v3:** specifying a sls v3 peer dep
+
 # [2.3.0](https://github.com/theclouddeck/serverless-online/compare/v2.2.3...v2.3.0) (2022-06-08)
 
 
