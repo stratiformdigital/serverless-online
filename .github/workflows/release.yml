@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+concurrency:
+  group: ${{ github.ref }}-release
+
 jobs:
   Release:
     runs-on: ubuntu-latest
