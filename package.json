@@ -1,5 +1,5 @@
 {
-  "name": "@theclouddeck/serverless-online",
+  "name": "@stratiformdigital/serverless-online",
   "version": "3.0.0",
   "description": "Faster lambda development in AWS through hot deploys and streaming logs.",
   "main": "index.js",
@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/theclouddeck/serverless-online"
+    "url": "https://github.com/stratiformdigital/serverless-online"
   },
   "license": "MIT",
   "author": {
