@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/stratiformdigital/serverless-online/compare/v3.0.0...v3.1.0) (2022-06-23)
+
+
+### Features
+
+* **migration:** migrate orgs ([fc412ee](https://github.com/stratiformdigital/serverless-online/commit/fc412eeb0daeccaf6fbf9f3f4244929a6556aebd))
+
 # [3.0.0](https://github.com/theclouddeck/serverless-online/compare/v2.3.0...v3.0.0) (2022-06-14)
 
 
