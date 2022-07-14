@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/stratiformdigital/serverless-online/compare/v3.1.0...v3.2.0) (2022-07-14)
+
+
+### Features
+
+* **publish:** Publish ([0237b71](https://github.com/stratiformdigital/serverless-online/commit/0237b713c4b576621fda2585887f416d7e36b8ac))
+
 # [3.1.0](https://github.com/stratiformdigital/serverless-online/compare/v3.0.0...v3.1.0) (2022-06-23)
 
 

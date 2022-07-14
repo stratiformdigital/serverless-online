@@ -1,6 +1,6 @@
 {
   "name": "@stratiformdigital/serverless-online",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "Faster lambda development in AWS through hot deploys and streaming logs.",
   "main": "index.js",
   "scripts": {
